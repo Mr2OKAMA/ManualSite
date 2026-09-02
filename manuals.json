@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "PCセットアップ手順",
+    "category": "IT",
+    "description": "新入社員向け PC セットアップの初期手順です。",
+    "sharepointUrl": "https://contoso.sharepoint.com/sites/manuals/pc-setup"
+  },
+  {
+    "id": 2,
+    "title": "勤怠入力ガイド",
+    "category": "総務",
+    "description": "勤怠システムの月次入力方法を説明します。",
+    "sharepointUrl": "https://contoso.sharepoint.com/sites/manuals/attendance"
+  },
+  {
+    "id": 3,
+    "title": "経費精算マニュアル",
+    "category": "経理",
+    "description": "経費申請から承認までの基本フローです。",
+    "sharepointUrl": "https://contoso.sharepoint.com/sites/manuals/expense"
+  }
+]
